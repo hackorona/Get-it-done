@@ -1,0 +1,17 @@
+{
+    "name": "get-it-done",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "backend": "nodemon server/index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cookie-parser": "^1.4.5",
+        "mongoose": "^5.9.6",
+        "nodemon": "^2.0.2"
+    }
+}
